@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2024 community-scripts ORG
+# Copyright (c) 2021-2024 alealv ORG
 # Author: MickLesk (Canbiz)
 # License: MIT
-# https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
+# https://github.com/alealv/ProxmoxVE/raw/main/LICENSE
 # Source: https://github.com/gitsang/lxc-iptag
 
 function header_info {

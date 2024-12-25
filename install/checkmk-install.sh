@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-#Copyright (c) 2021-2024 community-scripts ORG
+#Copyright (c) 2021-2024 alealv ORG
 # Author: Michel Roegl-Brunner (michelroegl-brunner)
 # License: MIT
-# https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
+# https://github.com/alealv/ProxmoxVE/raw/main/LICENSE
 
 
 source /dev/stdin <<<"$FUNCTIONS_FILE_PATH"

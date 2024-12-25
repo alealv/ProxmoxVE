@@ -1,7 +1,7 @@
 <div align="center">
   <p align="center">
     <a href="#">
-      <img src="https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/misc/images/logo.png" height="100px" />
+      <img src="https://raw.githubusercontent.com/alealv/ProxmoxVE/main/misc/images/logo.png" height="100px" />
     </a>
   </p>
 </div>
@@ -9,22 +9,22 @@
 <div style="border: 2px solid #d1d5db; padding: 20px; border-radius: 8px; background-color: #f9fafb;">
   <h2 align="center">Proxmox VE Helper-Scripts: A Community Legacy</h2>
   <p>Dear Community,</p>
-  <p>In agreement with <a href="https://github.com/tteck">tteck</a> and <a href="https://github.com/community-scripts">Community-Scripts</a>, this project has now transitioned into a community-driven effort. We aim to continue his work, building on the foundation he laid to support Proxmox users worldwide. Tteck sadly <a href="https://github.com/community-scripts/ProxmoxVE/discussions/237">passed away in early November 2024</a>. This project will be a memorial for his incredible contribution to the community.</p>
+  <p>In agreement with <a href="https://github.com/tteck">tteck</a> and <a href="https://github.com/alealv">Community-Scripts</a>, this project has now transitioned into a community-driven effort. We aim to continue his work, building on the foundation he laid to support Proxmox users worldwide. Tteck sadly <a href="https://github.com/alealv/ProxmoxVE/discussions/237">passed away in early November 2024</a>. This project will be a memorial for his incredible contribution to the community.</p>
 
 <p align="center">
   <a href="https://helper-scripts.com">
     <img src="https://img.shields.io/badge/Website-4c9b3f?style=for-the-badge&logo=github&logoColor=white" alt="Website" />
   </a> 
-  <a href="https://github.com/community-scripts/ProxmoxVE/blob/main/.github/CONTRIBUTING.md">
+  <a href="https://github.com/alealv/ProxmoxVE/blob/main/.github/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/Contribute-ff4785?style=for-the-badge&logo=git&logoColor=white" alt="Contribute" />
   </a> 
-  <a href="https://github.com/community-scripts/ProxmoxVE/blob/main/USER_SUBMITTED_GUIDES.md">
+  <a href="https://github.com/alealv/ProxmoxVE/blob/main/USER_SUBMITTED_GUIDES.md">
     <img src="https://img.shields.io/badge/Guides-0077b5?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Guides" />
   </a> 
   <a href="https://discord.gg/UHrpNWGwkH">
     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a> 
-  <a href="https://github.com/community-scripts/ProxmoxVE/blob/main/CHANGELOG.md">
+  <a href="https://github.com/alealv/ProxmoxVE/blob/main/CHANGELOG.md">
     <img src="https://img.shields.io/badge/Changelog-6c5ce7?style=for-the-badge&logo=git&logoColor=white" alt="Changelog" />
   </a>
 </p>
@@ -57,7 +57,7 @@ To install the Proxmox Helper Scripts, simply follow these steps:
 4. Open the Proxmox shell on your **main node**.
 5. Paste the command into the console, hit enter, and you are away! 🚀
 
-For detailed instructions, check out our [official guides](https://github.com/community-scripts/ProxmoxVE/blob/main/USER_SUBMITTED_GUIDES.md).
+For detailed instructions, check out our [official guides](https://github.com/alealv/ProxmoxVE/blob/main/USER_SUBMITTED_GUIDES.md).
 
 ---
 
@@ -69,7 +69,7 @@ The Proxmox Helper Scripts project is community-driven, and we highly appreciate
 
 We offer two donation options to help maintain and grow this project:
 
-- **Ko-Fi for tteck**: [Donate to tteck's wife](https://ko-fi.com/proxmoxhelperscripts) - All donations will go directly to Angie, wife of the founder of this project [who passed away in early November 2024](https://github.com/community-scripts/ProxmoxVE/discussions/237).
+- **Ko-Fi for tteck**: [Donate to tteck's wife](https://ko-fi.com/proxmoxhelperscripts) - All donations will go directly to Angie, wife of the founder of this project [who passed away in early November 2024](https://github.com/alealv/ProxmoxVE/discussions/237).
 - **Ko-Fi for Community Edition**: [Donate to this project](https://ko-fi.com/community_scripts) -  All funds will go towards script maintenance infrastructure and server costs. **Our most immediate need is funding testing infrastructure**.  Your contributions help keep the project running. To honor tteck's legacy this project will also raise money for charity (cancer research, hospice care). Of the money donated to this project, 30% will be donated to charity. Income, expenditure and charitable donations will be disclosed annually in a transparent manner. 
 
 <hr>
@@ -79,13 +79,13 @@ We offer two donation options to help maintain and grow this project:
 Have a question or ran into an issue? Join the conversation and get help from fellow community members:
 
 - **Discord**: Join our [Proxmox Helper Scripts Discord server](https://discord.gg/UHrpNWGwkH) to chat with other users and get support.
-- **GitHub Discussions**: [Ask questions or report issues](https://github.com/community-scripts/ProxmoxVE/discussions).
+- **GitHub Discussions**: [Ask questions or report issues](https://github.com/alealv/ProxmoxVE/discussions).
 
 <hr>
 
 ## 🤝&nbsp; Found a bug or missing feature?
 
-If you’ve encountered an issue or identified an area for improvement, please file a new issue on our [GitHub issues page](https://github.com/community-scripts/ProxmoxVE/issues). If you’ve already found a solution or improvement, feel free to submit a pull request! We’d love to review and merge your contributions.
+If you’ve encountered an issue or identified an area for improvement, please file a new issue on our [GitHub issues page](https://github.com/alealv/ProxmoxVE/issues). If you’ve already found a solution or improvement, feel free to submit a pull request! We’d love to review and merge your contributions.
 
 <hr>
 

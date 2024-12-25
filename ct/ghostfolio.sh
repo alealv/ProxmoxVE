@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
-source <(curl -s https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/misc/build.func)
+source <(curl -s https://raw.githubusercontent.com/alealv/ProxmoxVE/main/misc/build.func)
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
-# License: MIT | https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
+# License: MIT | https://github.com/alealv/ProxmoxVE/raw/main/LICENSE
 # Source: https://docs.ghostfolio.dev/
 
 # App Default Values
 APP="Ghostfolio"
-var_tags="media"
+var_tags="misc"
 var_cpu="4"
 var_ram="4096"
 var_disk="8"

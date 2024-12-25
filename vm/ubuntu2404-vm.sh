@@ -3,7 +3,7 @@
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
 # License: MIT
-# https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
+# https://github.com/alealv/ProxmoxVE/raw/main/LICENSE
 
 function header_info {
   clear
@@ -401,7 +401,7 @@ qm set $VMID \
   -ide2 ${STORAGE}:cloudinit \
   -boot order=scsi0 \
   -serial0 socket \
-  -description "<div align='center'><a href='https://Helper-Scripts.com'><img src='https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/misc/images/logo-81x112.png'/></a>
+  -description "<div align='center'><a href='https://Helper-Scripts.com'><img src='https://raw.githubusercontent.com/alealv/ProxmoxVE/main/misc/images/logo-81x112.png'/></a>
 
   # Ubuntu 24.04 VM
 

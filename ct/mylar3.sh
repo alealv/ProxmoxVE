@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-source <(curl -s https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/misc/build.func)
-# Copyright (c) 2021-2024 community-scripts ORG
+source <(curl -s https://raw.githubusercontent.com/alealv/ProxmoxVE/main/misc/build.func)
+# Copyright (c) 2021-2024 alealv ORG
 # Author: davalanche
-# License: MIT | https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
+# License: MIT | https://github.com/alealv/ProxmoxVE/raw/main/LICENSE
 # Source: https://github.com/mylar3/mylar3
 
 # App Default Values

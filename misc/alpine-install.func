@@ -2,7 +2,7 @@
 # Author: tteck (tteckster)
 # Co-Author: MickLesk
 # License: MIT
-# https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
+# https://github.com/alealv/ProxmoxVE/raw/main/LICENSE
 
 # This function sets color variables for formatting output in the terminal
 color() {
@@ -150,7 +150,7 @@ motd_ssh() {
   MOTD_FILE="/etc/motd"
   if [ -f "$MOTD_FILE" ]; then
     echo -e "\n${BOLD}${APPLICATION} LXC Container${CL}" > "$MOTD_FILE"
-    echo -e "${TAB}${GATEWAY}${YW} Provided by: ${GN}community-scripts ORG ${YW}| Project: ${GN}ProxmoxVE ${YW}| GitHub: ${GN}https://github.com/community-scripts/ProxmoxVE${CL}\n" >> "$MOTD_FILE"
+    echo -e "${TAB}${GATEWAY}${YW} Provided by: ${GN}alealv ORG ${YW}| Project: ${GN}ProxmoxVE ${YW}| GitHub: ${GN}https://github.com/alealv/ProxmoxVE${CL}\n" >> "$MOTD_FILE"
     echo -e "${TAB}${OS}${YW} OS: ${GN}${OS_NAME} ${OS_VERSION}${CL}" >> "$MOTD_FILE"
     echo -e "${TAB}${HOSTNAME}${YW} Hostname: ${GN}$(hostname)${CL}" >> "$MOTD_FILE"
     echo -e "${TAB}${INFO}${YW} IP Address: ${GN}${IP}${CL}" >> "$MOTD_FILE"
